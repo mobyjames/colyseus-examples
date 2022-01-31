@@ -42,4 +42,4 @@ gameServer.define("reconnection", ReconnectionRoom)
 
 gameServer.define("custom_lobby", CustomLobbyRoom);
 
-gameServer.listen(4242);
+gameServer.listen(2567);
